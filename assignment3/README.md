@@ -1,4 +1,4 @@
-# COS418 Assignment 3: Raft Leader Election
+# TC4003 Assignment 3: Raft Leader Election
 
 <h2>Introduction</h2>
 
@@ -62,7 +62,7 @@
   have everything properly configured and are ready to begin:
 <pre>
 # Go needs $GOPATH to be set to the directory containing "src"
-$ cd 418/assignment3
+$ cd TC4003/assignment3
 $ export GOPATH="$PWD"
 $ cd "$GOPATH/src/raft"
 $ go test -run Election
@@ -236,4 +236,4 @@ on the Github page of your repository for this assignment.
 </p>
 
 <h2>Acknowledgements</h2>
-<p>This assignment is adapted from MIT's 6.824 course. Thanks to Frans Kaashoek, Robert Morris, and Nickolai Zeldovich for their support.</p>
+<p>This assignment is adapted from MIT's 6.824 course and Princeton course COS418.</p>
