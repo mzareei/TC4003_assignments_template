@@ -1,4 +1,4 @@
-# COS418 Assignment 1 (Part 2): Sequential Map/Reduce
+# TC4003 Assignment 1 (Part 2): Sequential Map/Reduce
 
 <h2>Introduction</h2>
 <p>
