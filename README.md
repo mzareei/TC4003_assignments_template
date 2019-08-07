@@ -45,8 +45,8 @@ In particular, tutorials 1 and 5 will be most useful for this course.</p>
 <p> All programming assignments, require Git for submission. <p> We are using Github for distributing and collecting your assignments. At the time of seeing this, you should have already joined the [TC4003A19](https://github.com/mzareei/TC4003A19) organization on Github and forked your private repository. You will need to develop in a *nix environment, i.e., Linux or OS X. Your Github page should have a link. Normally, you only need to clone the repository once, and you will have everything you need for all the assignments in this class.
 
 ```bash
-$ git clone https://github.com/TC4003A19/assignments-myusername.git 418
-$ cd 418
+$ git clone https://github.com/TC4003A19/assignments-myusername.git TC4003
+$ cd TC4003
 $ ls
 assignment1-1  assignment1-2  assignment1-3  assignment2  assignment3  assignment4  assignment5  README.md  setup.md
 $ 
