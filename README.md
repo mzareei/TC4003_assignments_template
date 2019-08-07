@@ -1,4 +1,4 @@
-# Projects for TC4003
+# Assignments for TC4003
 
 ### Environment Setup
 
@@ -45,7 +45,7 @@ In particular, tutorials 1 and 5 will be most useful for this course.</p>
 <p> All programming assignments, require Git for submission. <p> We are using Github for distributing and collecting your assignments. At the time of seeing this, you should have already joined the [TC4003A19](https://github.com/mzareei/TC4003A19) organization on Github and forked your private repository. You will need to develop in a *nix environment, i.e., Linux or OS X. Your Github page should have a link. Normally, you only need to clone the repository once, and you will have everything you need for all the assignments in this class.
 
 ```bash
-$ git clone https://github.com/COS418F18/assignments-myusername.git 418
+$ git clone https://github.com/TC4003A19/assignments-myusername.git 418
 $ cd 418
 $ ls
 assignment1-1  assignment1-2  assignment1-3  assignment2  assignment3  assignment4  assignment5  README.md  setup.md
@@ -55,7 +55,7 @@ $
 Now, you have everything you need for doing all assignments, i.e., instructions and starter code. Git allows you to keep track of the changes you make to the code. For example, if you want to checkpoint your progress, you can <emph>commit</emph> your changes by running:
 
 ```bash
-$ git commit -am 'partial solution to project 1-1'
+$ git commit -am 'partial solution to assignment 1-1'
 $ 
 ```
 
@@ -76,6 +76,6 @@ $
 
 As you complete parts of the assignments (and begin future assignments) we'll ask you push tags. You should also be committing and pushing your progress regularly.
 
-### Steping into Project 1-1
+### Steping into Assignments 1-1
 
-Now it's time to go to project 1-1 folder to begin your adventure!
+Now it's time to go to assignment 1-1 folder to begin your adventure!
