@@ -23,7 +23,6 @@
 <p>
   For the next two parts of this assignment, we will provide you with a significant amount of scaffolding code to get started.
   The relevant code is under this directory.
-  We will ensure that all the code we supply works on the CS servers (cycles.cs.princeton.edu).
   We expect that it is likely to work on your own development environment that supports Go.
 </p>
 
@@ -143,11 +142,11 @@ f[nIn-1]-0, ..., f[nIn-1]-[nReduce-1].
   implementation. These tests are implemented in the file
   <tt>test_test.go</tt>. To run the tests for the sequential
   implementation that you have now fixed, follow this (or a non-<tt>bash</tt> equivalent) sequence of shell commands,
-  starting from the <tt>418/assignment1-2</tt> directory:
+  starting from the <tt>TC4003/assignment1-2</tt> directory:
 
 <pre>
 # Go needs $GOPATH to be set to the directory containing "src"
-$ cd 418/assignment1-2
+$ cd TC4003/assignment1-2
 $ ls
 README.md src
 $ export GOPATH="$PWD"
