@@ -353,4 +353,4 @@ on the Github page of your repository for this assignment.
 
 
 <h2>Acknowledgements</h2>
-<p>This assignment is adapted from MIT's 6.824 course. Thanks to Frans Kaashoek, Robert Morris, and Nickolai Zeldovich for their support.</p>
+<p>This assignment is adapted from MIT's 6.824 course and Princeton course COS418.</p>
