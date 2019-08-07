@@ -1,4 +1,4 @@
-# COS418 Assignment 2: Chandy-Lamport Distributed Snapshots
+# TC4003 Assignment 2: Chandy-Lamport Distributed Snapshots
 
 <h2>Introduction</h2>
 <p>
