@@ -79,3 +79,7 @@ As you complete parts of the assignments (and begin future assignments) we'll as
 ### Steping into Assignments 1-1
 
 Now it's time to go to assignment 1-1 folder to begin your adventure!
+
+
+<h2>Acknowledgements</h2>
+<p>This assignment is adapted from MIT's 6.824 course and Princeton course COS418.</p>
