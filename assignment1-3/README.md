@@ -1,4 +1,4 @@
-# COS418 Assignment 1 (Part 3): Distributed Map/Reduce
+# TC4003 Assignment 1 (Part 3): Distributed Map/Reduce
 
 <h2>Introduction</h2>
 <p>
