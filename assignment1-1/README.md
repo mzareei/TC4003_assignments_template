@@ -65,5 +65,5 @@ $ git push origin master
 $ git push origin a11-handin
 ```
 
-<h2>Acknowledgements</h2>
+<h2>Acknowledgments</h2>
 <p>This assignment is adapted from MIT's 6.824 course and Princeton course COS418.</p>
