@@ -41,7 +41,7 @@
 
 <p>
   You should consult the
-  <a href="papers/raft.pdf">extended Raft paper</a>
+  <a href="https://raft.github.io/raft.pdf">extended Raft paper</a>
   and the Raft lecture notes. You may also find this
   <a href="http://thesecretlivesofdata.com/raft/">illustrated Raft guide</a>
   useful to get a sense of the high-level workings of Raft. For a
