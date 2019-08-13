@@ -235,5 +235,5 @@ on the Github page of your repository for this assignment.
   If your code does not pass the <tt>gofmt</tt> test, you should reformat your code using the tool. You can also use the <a href="https://github.com/qiniu/checkstyle">Go Checkstyle</a> tool for advice to improve your code's style, if applicable.  Additionally, though not part of the graded checks, it would also be advisable to produce code that complies with <a href="https://github.com/golang/lint">Golint</a> where possible.
 </p>
 
-<h2>Acknowledgements</h2>
+<h2>Acknowledgments</h2>
 <p>This assignment is adapted from MIT's 6.824 course and Princeton course COS418.</p>
