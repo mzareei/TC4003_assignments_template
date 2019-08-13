@@ -6,17 +6,6 @@ You will need a working Go environment for the assignments.
 Your version should be at least Go 1.9, which is the version that Grading scripts will use.
 The latest version as of the Fall 2018 semester is Go 1.11. Things work in 1.9 should also work in 1.11. Learn more about semantic of versioning [here](https://semver.org/).
 
-<h3>Cycles (Pre-installed)</h3>
-<p>
-  The CS servers (cycles.cs.princeton.edu) are one option, if you have a <a href="https://csguide.cs.princeton.edu/accounts">CS account</a>.
-<pre>
-spin:~$ which go
-/usr/bin/go
-@spin:~$ go version
-go version go1.6.3 linux/amd64</pre>
-  We have tested that all the infrastructure for the course works on these machines.
-</p>
-
 <h3>Manual for Various OSes</h3>
 <p>
   Another option is to install Go on your own machine manually. There are instructions to install from source or with a 
