@@ -3,9 +3,8 @@
 <h2>Introduction</h2>
 <p>
   In this assignment you will implement the
-  <a href=papers/chandy_lamport.pdf>Chandy-Lamport algorithm</a> for distributed snapshots.
-  Your snapshot algorithm will be implemented on top of a token passing system, similar
-  to the ones presented in <a href="docs/P4-distributed-snapshots.zip">Precept 4</a> and in
+  <a href=https://lamport.azurewebsites.net/pubs/chandy.pdf>Chandy-Lamport algorithm</a> for distributed snapshots.
+  Your snapshot algorithm will be implemented on top of a token passing system in
   the Chandy-Lamport paper.
 
   The algorithm makes the following assumptions:
