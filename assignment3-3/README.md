@@ -1,4 +1,4 @@
-# COS418 Assignment 5: Key-Value Storage Service
+# TC4003 Assignment 3-3: Key-Value Storage Service
 
 <h2>Introduction</h2>
 
@@ -44,7 +44,7 @@
   To get up and running, execute the following commands, as in the previous assignments, and change into the <tt>src/kvraft</tt> directory:
   <pre>
   # Go needs $GOPATH to be set to the directory containing "src"
-  $ cd 418/assignment5
+  $ cd 4003/assignment3-3
   $ export GOPATH="$PWD"
   $ cd "$GOPATH/src/kvraft"
   </pre>
@@ -316,9 +316,9 @@ You hand in your assignment as before.
 
 ```bash
 $ git commit -am "[you fill me in]"
-$ git tag -a -m "i finished assignment 5" a5-handin
+$ git tag -a -m "i finished assignment 3-3" a3-3-handin
 $ git push origin master
-$ git push origin a5-handin
+$ git push origin a3-3-handin
 $
 ```
 <p>
@@ -334,4 +334,4 @@ $
 
 
 <h2>Acknowledgements</h2>
-<p>This assignment is adapted from MIT's 6.824 course. Thanks to Frans Kaashoek, Robert Morris, and Nickolai Zeldovich for their support.</p>
+<p>This assignment is adapted from MIT's 6.824 course and Princeton course COS418.</p>
