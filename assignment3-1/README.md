@@ -1,4 +1,4 @@
-# TC4003 Assignment 3: Raft Leader Election
+# TC4003 Assignment 3-1: Raft Leader Election
 
 <h2>Introduction</h2>
 
