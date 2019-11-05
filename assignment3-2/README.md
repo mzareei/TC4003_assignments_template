@@ -1,12 +1,12 @@
-# COS418 Assignment 4: Raft Log Consensus
+#  TC4003 Assignment 3-2: Raft Log Consensus
 
 <h2>Introduction</h2>
 
 <p>
   This is the second in the series of assignments in which you'll build a
-  fault-tolerant key/value storage system. You've started off in Assignment 3
+  fault-tolerant key/value storage system. You've started off in Assignment 3-1
   assignment by implementing the leader election features of Raft. In this assignment,
-  you will implement Raft's core features: log consensus agreement. From here, Assignment 4
+  you will implement Raft's core features: log consensus agreement. From here, Assignment 3-2
   will be a key/value service that uses this Raft implementation as a foundational module.
 </p>
 
@@ -26,17 +26,17 @@
   <a href="papers/raft.pdf">extended Raft paper</a>,
   the Raft lecture notes, and the
   <a href="http://thesecretlivesofdata.com/raft/">illustrated Raft guide</a>.
-  You should, of course, also review your work from Assignment 3, as this assignment
+  You should, of course, also review your work from Assignment 3-1, as this assignment
   directly builds off that.
 </p>
 
 <h2>Software</h2>
 
 <p>
-  You will continue to use the same <tt>cos418</tt> code bundle from the previous assignments.
+  You will continue to use the same <tt>tc4003</tt> code bundle from the previous assignments.
   For this assignment, we will focus primarily on the code and tests for the Raft implementation in
   <tt>src/raft</tt> and the simple RPC-like system in <tt>src/labrpc</tt>. It is worth your while to
-  read and digest the code in these packages again, including your implementation from Assignment 3.
+  read and digest the code in these packages again, including your implementation from Assignment 3-1.
 </p>
 
 <h2>Part I</h2>
@@ -187,9 +187,9 @@ You hand in your assignment as before.
 
 ```bash
 $ git commit -am "[you fill me in]"
-$ git tag -a -m "i finished assignment 4" a4-handin
+$ git tag -a -m "i finished assignment 3-2" a3-2-handin
 $ git push origin master
-$ git push origin a4-handin
+$ git push origin a3-2-handin
 $
 ```
 
@@ -209,4 +209,4 @@ on the Github page of your repository for this assignment.
 </p>
 
 <h2>Acknowledgements</h2>
-<p>This assignment is adapted from MIT's 6.824 course. Thanks to Frans Kaashoek, Robert Morris, and Nickolai Zeldovich for their support.</p>
+<p> This assignment is adapted from MIT's 6.824 course and Princeton course COS418.</p>
