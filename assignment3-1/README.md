@@ -6,7 +6,7 @@
   This is the first in a series of assignments in which you'll build a
   fault-tolerant key/value storage system. You'll start in this
   assignment by implementing the leader election features of Raft,
-  a replicated state machine protocol. In Assignment 3 you will complete
+  a replicated state machine protocol. In Assignment 3-1 you will complete
   Raft's log consensus agreement features. You will implement Raft as a
   Go object with associated methods, available to be used as a module in
   a larger service. Once you have completed Raft, the course assignments
@@ -62,7 +62,7 @@
   have everything properly configured and are ready to begin:
 <pre>
 # Go needs $GOPATH to be set to the directory containing "src"
-$ cd TC4003/assignment3
+$ cd TC4003/assignment3-1
 $ export GOPATH="$PWD"
 $ cd "$GOPATH/src/raft"
 $ go test -run Election
@@ -214,9 +214,9 @@ You hand in your assignment as before.
 
 ```bash
 $ git commit -am "[you fill me in]"
-$ git tag -a -m "i finished assignment 3" a3-handin
+$ git tag -a -m "i finished assignment 3-1" a3-1-handin
 $ git push origin master
-$ git push origin a3-handin
+$ git push origin a3-1-handin
 $
 ```
 
