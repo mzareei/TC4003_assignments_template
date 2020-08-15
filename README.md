@@ -25,7 +25,7 @@ produce code that complies with <a
 href="https://github.com/golang/lint">Golint</a> where possible. </p>
 
 <h3>How do I git?</h3>
-This page has some useful tutorials on git: <a href="https://www.atlassian.com/git/tutorial">Git Tutorials</a></br>
+This page has some useful tutorials on git: <a href="https://www.atlassian.com/git/tutorials">Git Tutorials</a></br>
 In particular, tutorials 1 and 5 will be most useful for this course.</p>
 
 <p>The basic git workflow in the shell (assuming you already have a repo set up):</br>
